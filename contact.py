@@ -1,0 +1,5 @@
+print("CONTACT PAGE")
+print("--------")
+print("Email:evansawuraamasutherland@email.com")
+print("Location:Ghana")
+print("Thank you for visiting")
